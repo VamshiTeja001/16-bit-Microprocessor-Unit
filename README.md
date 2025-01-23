@@ -3,7 +3,7 @@ A 16bit Microprocessor built using verilog HDL and tested on Artix 7 FPGA. Suppo
 
 ![image](https://github.com/user-attachments/assets/184f3755-3a27-4937-a8a1-2989f435a3ab)
 
-Instructions:
+Supported Instructions:
 
 MOV (Direct, Immediate)
 MOVSGPR
